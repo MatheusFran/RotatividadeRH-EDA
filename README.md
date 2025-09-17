@@ -14,13 +14,12 @@ Este projeto tem como objetivo analisar os fatores que influenciam a **retençã
 
 ## 📈 Técnicas e Ferramentas Utilizadas
 
-- Análise Exploratória de Dados (EDA)
 - Python e bibliotecas de visualização
 - Jupyter Notebook
 - Pandas, Matplotlib, Seaborn
 - Relatório elaborado em PDF
 
-## 📎 Relatório Executivo
+## Relatório Executivo
 
 Você pode acessar o relatório completo com os principais insights e recomendações no link abaixo:
 
@@ -34,7 +33,6 @@ Você pode acessar o relatório completo com os principais insights e recomenda�
 - Desenvolvimento de programa para jovens talentos
 - Fortalecimento de canais de recrutamento com maior retenção
 
-## 🧠 Autor
 
 Matheus Francisco  
 [GitHub](https://github.com/MatheusFran)
